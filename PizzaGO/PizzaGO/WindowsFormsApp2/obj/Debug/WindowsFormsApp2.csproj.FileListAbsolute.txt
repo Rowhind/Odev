@@ -1,0 +1,30 @@
+C:\Users\PC01\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\PC01\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\PC01\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\PC01\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\PC01\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\PC01\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\PC01\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\PC01\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\PC01\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\PC01\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Efe Teke\OneDrive\Masaüstü\WindowsFormsApp2-20250322T132552Z-001\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Efe Teke\OneDrive\Masaüstü\WindowsFormsApp2-20250322T132552Z-001\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Efe Teke\OneDrive\Masaüstü\WindowsFormsApp2-20250322T132552Z-001\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Efe Teke\OneDrive\Masaüstü\WindowsFormsApp2-20250322T132552Z-001\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Efe Teke\OneDrive\Masaüstü\WindowsFormsApp2-20250322T132552Z-001\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Efe Teke\OneDrive\Masaüstü\WindowsFormsApp2-20250322T132552Z-001\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Efe Teke\OneDrive\Masaüstü\WindowsFormsApp2-20250322T132552Z-001\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Efe Teke\OneDrive\Masaüstü\WindowsFormsApp2-20250322T132552Z-001\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Efe Teke\OneDrive\Masaüstü\WindowsFormsApp2-20250322T132552Z-001\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Efe Teke\OneDrive\Masaüstü\WindowsFormsApp2-20250322T132552Z-001\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Efe Teke\OneDrive\Masaüstü\PizzaGO\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Efe Teke\OneDrive\Masaüstü\PizzaGO\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Efe Teke\OneDrive\Masaüstü\PizzaGO\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Efe Teke\OneDrive\Masaüstü\PizzaGO\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Efe Teke\OneDrive\Masaüstü\PizzaGO\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Efe Teke\OneDrive\Masaüstü\PizzaGO\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Efe Teke\OneDrive\Masaüstü\PizzaGO\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Efe Teke\OneDrive\Masaüstü\PizzaGO\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Efe Teke\OneDrive\Masaüstü\PizzaGO\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Efe Teke\OneDrive\Masaüstü\PizzaGO\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
